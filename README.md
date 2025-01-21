@@ -72,8 +72,3 @@
 🔗 LinkedIn: [Yaswanth Reddy Yarrabandla](#)  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth-reddy-yarrabandla&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-reddy-yarrabandla&layout=compact&theme=radical" alt="Top Languages" />
-</p>
