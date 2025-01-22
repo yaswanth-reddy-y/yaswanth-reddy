@@ -32,9 +32,11 @@
 - Achieved 95% accuracy (AUC: 0.99) using Gradient Boosting and SMOTE to address class imbalance.  
 - Reduced misclassification by 20%, making the system robust for real-world applications.  
 
-📌 **[Advanced Sales Analytics](#)**  
-- Identified customer patterns with clustering and classification, driving strategic sales decisions.  
-- Enhanced segmentation by integrating demographic data, optimizing business insights.
+📌 **[Plant Pathology Analysis Using CNN ](#)**  
+- Categorized plant diseases into four classes, enhancing diagnostic accuracy.
+-	Designed and trained a robust CNN model with image augmentation and batch normalization for better generalization.
+-	Performed label distribution analysis to ensure model robustness and fairness.
+
 
 ---
 
