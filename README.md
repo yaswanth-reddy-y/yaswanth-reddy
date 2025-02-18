@@ -14,7 +14,7 @@
 
 ### 💼 Professional Snapshot  
 - **👨‍🏫 Teaching Assistant @ DePaul University (2024)**  
-   - Empowered 40+ students to master data science and ML concepts, boosting project completion rates by 30%.  
+   - Empowered 75+ students to master data science and ML concepts, boosting project completion rates by 60%.  
    - Improved student grades by 15% through targeted feedback on NLP, classification models, and data preprocessing.  
 
 - **🔍 Junior Data Science Engineer @ PortalOne Team (2021-2022)**  
