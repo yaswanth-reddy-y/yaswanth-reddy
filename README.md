@@ -1,86 +1,56 @@
-<h1 align="center">Hi there! 👋 I'm Yaswanth Reddy Yarrabandla</h1>
-<p align="center">
-  <em>Data Scientist | Machine Learning Enthusiast | Problem Solver</em>
-</p>
+## 👋 Hi there! I'm Yaswanth Reddy Yarrabandla
+
+📍 Based in **Chicago, IL** | Open to Relocation  
+🎓 **M.S. in Data Science**, DePaul University (GPA: 3.83)  
+📫 Reach me: [yaswanthr2001@gmail.com](mailto:yaswanthr2001@gmail.com) | 📞 872-242-8299  
+🌐 [LinkedIn](https://www.linkedin.com/in/your-link) • [GitHub](https://github.com/your-github)
 
 ---
 
-### 🌟 About Me  
-🎯 **Proactive Data Scientist** passionate about solving complex challenges and transforming data into actionable insights.  
-💡 Leveraging expertise in **Machine Learning, NLP, and Deep Learning** to create innovative, impactful solutions.  
-🌐 Always curious and eager to contribute to the **data science community** and collaborate on cutting-edge projects.  
+### 💼 Data Scientist | ML Engineer | AI Enthusiast
+
+Multifaceted Data Scientist with proven experience in **Machine Learning**, **NLP**, and **Cloud-Driven AI Solutions**.  
+I specialize in building and deploying **end-to-end AI systems** with tools like Python, SQL, AWS, Azure, and LLMs.  
+From **fraud detection** to **recommendation systems** and **real-time analytics**, I transform data into actionable insights.
 
 ---
 
-### 💼 Professional Snapshot
-- ** Chicago Education Advocacy Cooperative (2025)**
-- Project Name: Agent Performance & Segmentation Analytics 
-• Created Interactive Dashboards with Azure Machine Learning, driving 15% faster business decisions. 
-Feb 2025 - Current 
-Chicago, IL 
-• Advanced Modeling: Applied LSTM, ARIMA, and Random Forest models for agent performance prediction and trend forecasting, 
-improving customer retention by 15% and client engagement by 20%. 
-• Enhanced Reporting Efficiency: Integrated dynamic filters and drill-downs, reducing report generation time by 47%. 
-• Forecasted Business Trends: Leveraged predictive analytics to forecast market trends with higher accuracy, supporting better 
-strategic planning.
-- **👨‍🏫 Teaching Assistant @ DePaul University (2024)**  
-   - Empowered 75+ students to master data science and ML concepts, boosting project completion rates by 60%.  
-   - Improved student grades by 15% through targeted feedback on NLP, classification models, and data preprocessing.  
+### ⚙️ Core Skills
 
-- **🔍 Junior Data Science Engineer @ PortalOne Team (2021-2022)**  
-   - Designed a recommendation engine that increased user satisfaction by 25%.  
-   - Reduced user churn by 18% by building predictive analytics dashboards and optimizing data pipelines.
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Tableau  
+- **ML & AI:** XGBoost, Random Forest, LSTM, Gradient Boosting, SMOTE, ROC AUC, Time Series  
+- **Deep Learning & NLP:** BERT, RNNs, CNNs, GANs, TensorFlow, Keras, Streamlit, Prompt Engineering  
+- **Cloud & Data Engineering:** AWS (S3, EC2, RDS), Azure, SQL Server, Docker, Kubernetes, ETL Pipelines, Spark  
+- **Deployment & Ops:** Kubeflow, TensorRT, Triton Inference Server  
 
 ---
 
-### 🚀 Featured Projects  
-📌 **[Real/Fake Job Posting Prediction](#)**  
-- Developed an ML system with SMOTE & ADASYN, boosting fraud detection recall.  
-- Deployed a real-time Streamlit app for 5,000+ users with optimized SVM and LSTM models.  
+### 🚀 Projects & Impact
 
-📌 **[Credit Card Fraud Detection](#)**  
-- Achieved 95% accuracy (AUC: 0.99) using Gradient Boosting and SMOTE to address class imbalance.  
-- Reduced misclassification by 20%, making the system robust for real-world applications.  
+**🎯 Agent Performance & Segmentation Analytics – ChiEAC**  
+- Built LSTM and ARIMA models for forecasting, boosting customer retention by **15%**  
+- Designed interactive dashboards using Azure ML, reducing decision latency by **15%**  
+- Integrated Power BI reports with smart filters, improving reporting efficiency by **47%**
 
-📌 **[Plant Pathology Analysis Using CNN ](#)**  
-- Categorized plant diseases into four classes, enhancing diagnostic accuracy.
--	Designed and trained a robust CNN model with image augmentation and batch normalization for better generalization.
--	Performed label distribution analysis to ensure model robustness and fairness.
+**📚 Teaching Assistant – DePaul University**  
+- Mentored 75+ students in ML & NLP, increasing performance by **40%**  
+- Hosted weekly workshops and 1:1 sessions on Python, classification models, and data visualization
 
-
----
-
-### 🛠️ Tech Stack  
-#### **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Frameworks & Tools:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+**🧠 Data Science Engineer – PortalOne Team**  
+- Built K-Means/DBSCAN recommendation systems, increasing user satisfaction by **25%**  
+- Reduced churn by **18%** through predictive modeling  
+- Streamlined AWS ETL pipelines, cutting processing time by **40%**
 
 ---
 
-### 🌱 Currently Learning  
-📖 Exploring advanced deep learning architectures and optimization techniques.  
-🌐 Enhancing deployment skills for scalable, real-time ML solutions.  
+### 📜 Certifications
+
+- ✅ **Microsoft Certified: Azure Data Scientist Associate**  
+- 🥇 **HackerRank Gold Badge** – Python
 
 ---
 
-### 🤝 Let’s Collaborate  
-- Interested in **Machine Learning, NLP, Data Engineering**, or **Open Source Projects**?  
-- Reach out, and let’s build something amazing together!  
+### 🧠 Passion
 
----
-
-### 📫 Contact Me  
-📧 Email: [yaswanthr2001@gmail.com](mailto:yaswanthr2001@gmail.com)  
-🔗 LinkedIn: [Yaswanth Reddy Yarrabandla](#)  
-
----
+I’m passionate about using **AI for social impact**, **educational equity**, and **business innovation**.  
+Let’s connect and build something powerful with data! 🚀
