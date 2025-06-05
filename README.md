@@ -12,7 +12,17 @@
 
 ---
 
-### 💼 Professional Snapshot  
+### 💼 Professional Snapshot
+- ** Chicago Education Advocacy Cooperative (2025)**
+- Project Name: Agent Performance & Segmentation Analytics 
+• Created Interactive Dashboards with Azure Machine Learning, driving 15% faster business decisions. 
+Feb 2025 - Current 
+Chicago, IL 
+• Advanced Modeling: Applied LSTM, ARIMA, and Random Forest models for agent performance prediction and trend forecasting, 
+improving customer retention by 15% and client engagement by 20%. 
+• Enhanced Reporting Efficiency: Integrated dynamic filters and drill-downs, reducing report generation time by 47%. 
+• Forecasted Business Trends: Leveraged predictive analytics to forecast market trends with higher accuracy, supporting better 
+strategic planning.
 - **👨‍🏫 Teaching Assistant @ DePaul University (2024)**  
    - Empowered 75+ students to master data science and ML concepts, boosting project completion rates by 60%.  
    - Improved student grades by 15% through targeted feedback on NLP, classification models, and data preprocessing.  
