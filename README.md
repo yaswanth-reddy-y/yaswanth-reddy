@@ -3,7 +3,7 @@
 📍 Based in **Chicago, IL** | Open to Relocation  
 🎓 **M.S. in Data Science**, DePaul University (GPA: 3.83)  
 📫 Reach me: [yaswanthr2001@gmail.com](mailto:yaswanthr2001@gmail.com) | 📞 872-242-8299  
-🌐 [LinkedIn](www.linkedin.com/in/yaswanth-reddy-yarrabandla) • [GitHub](https://github.com/yaswanth-reddy-yarrabandla/yaswanth-reddy-yarrabandla)
+🌐 [LinkedIn](https://www.linkedin.com/in/yaswanth-reddy-yarrabandla/) • [GitHub](https://github.com/yaswanth-reddy-yarrabandla/yaswanth-reddy-yarrabandla)
 
 ---
 
