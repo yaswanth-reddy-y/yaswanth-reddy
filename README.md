@@ -6,51 +6,70 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/yaswanth-reddy-yarrabandla/) • [GitHub](https://github.com/yaswanth-reddy-yarrabandla/yaswanth-reddy-yarrabandla)
 
 ---
+## Professional Summary
 
-### 💼 Data Scientist | ML Engineer | AI Enthusiast
-
-Multifaceted Data Scientist with proven experience in **Machine Learning**, **NLP**, and **Cloud-Driven AI Solutions**.  
-I specialize in building and deploying **end-to-end AI systems** with tools like Python, SQL, AWS, Azure, and LLMs.  
-From **fraud detection** to **recommendation systems** and **real-time analytics**, I transform data into actionable insights.
+Experienced Data Scientist with 3+ years of hands-on expertise designing and deploying machine learning solutions across financial, healthcare, and operational domains. Skilled in supervised and unsupervised modeling, hypothesis testing, and full-cycle project execution using Python, SQL, Spark, and AWS (SageMaker, Redshift, S3). Proven ability to embed predictive analytics and statistical models into enterprise systems, driving impactful data-driven decisions. Adept at translating complex insights for senior leadership and collaborating across diverse teams. Strong background in time series forecasting, performance analysis, and building cloud-based automated dashboards aligned with business goals.
 
 ---
 
-### ⚙️ Core Skills
+## Technical Skills
 
-- **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Tableau  
-- **ML & AI:** XGBoost, Random Forest, LSTM, Gradient Boosting, SMOTE, ROC AUC, Time Series  
-- **Deep Learning & NLP:** BERT, RNNs, CNNs, GANs, TensorFlow, Keras, Streamlit, Prompt Engineering  
-- **Cloud & Data Engineering:** AWS (S3, EC2, RDS), Azure, SQL Server, Docker, Kubernetes, ETL Pipelines, Spark  
-- **Deployment & Ops:** Kubeflow, TensorRT, Triton Inference Server  
-
----
-
-### 🚀 Projects & Impact
-
-**🎯 Agent Performance & Segmentation Analytics – ChiEAC**  
-- Built LSTM and ARIMA models for forecasting, boosting customer retention by **15%**  
-- Designed interactive dashboards using Azure ML, reducing decision latency by **15%**  
-- Integrated Power BI reports with smart filters, improving reporting efficiency by **47%**
-
-**📚 Teaching Assistant – DePaul University**  
-- Mentored 75+ students in ML & NLP, increasing performance by **40%**  
-- Hosted weekly workshops and 1:1 sessions on Python, classification models, and data visualization
-
-**🧠 Data Science Engineer – PortalOne Team**  
-- Built K-Means/DBSCAN recommendation systems, increasing user satisfaction by **25%**  
-- Reduced churn by **18%** through predictive modeling  
-- Streamlined AWS ETL pipelines, cutting processing time by **40%**
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Anaconda  
+- **Machine Learning & AI:** Regression, Classification, Clustering, XGBoost, Random Forest, LSTM, Gradient Boosting, Model Tuning, ROC AUC, Confusion Matrix, Precision, Recall, Time Series Analysis, Cohort Analysis, Attribution Modeling  
+- **Deep Learning & NLP:** CNNs, RNNs, GANs, TensorFlow, Keras, OpenCV, LLMs, BERT, Streamlit, Prompt & Text Classification  
+- **Statistics & Experimentation:** A/B Testing, Statistical Inference, Experimental Design, Regression Analysis, Forecasting Models  
+- **Business & Consulting:** Problem Solving, Stakeholder Communication, Data-Driven Strategy  
+- **Collaboration & Workflow:** Git, GitHub, JIRA, Agile/Scrum, CI/CD Pipelines
 
 ---
 
-### 📜 Certifications
+## Professional Experience
 
-- ✅ **Microsoft Certified: Azure Data Scientist Associate**  
-- 🥇 **HackerRank Gold Badge** – Python
+### Data Scientist  
+**Chicago Education Advocacy Cooperative** — Chicago, IL  
+_Mar 2025 – Present_  
+Project: Agent Performance & Segmentation Analytics  
+- Designed and built dashboards with Azure Machine Learning, enabling 15% faster stakeholder decision-making.  
+- Applied LSTM, ARIMA, and Random Forest models for agent performance prediction and trend forecasting, improving customer retention by 15% and client engagement by 20%.  
+- Enhanced reporting efficiency by integrating dynamic filters and drill-downs, reducing report generation time by 47%.  
+- Forecasted business trends using predictive analytics to support strategic planning and resource allocation.  
+- Managed model deployment via JIRA, collaborating cross-functionally to ensure smooth production transition.
+
+### Teaching Assistant – Data Science & ML  
+**DePaul University** — Chicago, IL  
+_Aug 2024 – Dec 2024_  
+- Mentored 75+ students on classification models using Python, focusing on real-world datasets and model evaluation.  
+- Led group projects developing end-to-end ML pipelines including data preprocessing, feature engineering, and deployment.  
+- Assisted with debugging, model optimization, and data visualization using Matplotlib and Seaborn.  
+- Supported student projects applying logistic regression and random forest for customer churn prediction.
+
+### Data Science Engineer  
+**PortalOne Team** — Hyderabad, India  
+_Aug 2021 – Nov 2022_  
+Project: Website Builder Platform  
+- Analyzed user behavior with clustering models, driving a 25% increase in user satisfaction through targeted feature improvements.  
+- Built collaborative filtering recommendation system, enhancing personalized content suggestions and boosting satisfaction by 25%.  
+- Optimized ETL pipelines on AWS, reducing data processing time by 40% and improving scalability.  
+- Developed predictive churn models, decreasing user churn by 18% via data-driven retention strategies.  
+- Collaborated with engineering teams to streamline data workflows and ensure efficient model deployment.
 
 ---
 
-### 🧠 Passion
+## Education
 
-I’m passionate about using **AI for social impact**, **educational equity**, and **business innovation**.  
-Let’s connect and build something powerful with data! 🚀
+**DePaul University** — M.S. in Data Science  
+_Jan 2023 – Nov 2024_  
+GPA: 3.83
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Data Scientist Associate  
+- HackerRank Gold Badge – Python
+
+---
+
+## Contact Me
+
+Feel free to connect via email or LinkedIn for collaboration, questions, or opportunities!
