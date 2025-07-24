@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist** with **3+ years** of experience turning raw data into impactful business decisions. I specialize in machine learning, predictive modeling, and cloud-powered analytics — working across **finance**, **healthcare**, and **education** sectors.
+I’m a results-driven **Data Scientist** with **3+ years** of experience transforming complex data into actionable intelligence. My work spans diverse sectors — from **finance** and **healthcare** to **education** and **SaaS** — where I’ve delivered **high-impact machine learning models**, **cloud-native solutions**, and **predictive analytics** that drive measurable growth.
 
-I love building **scalable solutions** using Python, SQL, and AWS, and I’m passionate about helping organizations unlock insights that drive growth and innovation.
+I thrive at the intersection of **data, strategy, and innovation** — building scalable solutions that solve real-world problems and enable smarter, faster decision-making.
 
 ---
 
