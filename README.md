@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Yaswanth Reddy Yarrabandla
+## 👋 Hi there! I'm Yaswanth Reddy
 
 📍 Based in **Chicago, IL** | Open to Relocation  
 🎓 **M.S. in Data Science**, DePaul University (GPA: 3.83)  
