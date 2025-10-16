@@ -1,78 +1,81 @@
-## 👋 Hi there! I'm Yaswanth Reddy
-
-📍 Based in **Chicago, IL** | Open to Relocation  
-🎓 **M.S. in Data Science**, DePaul University (GPA: 3.83)  
-📫 Reach me: [yaswanthr2001@gmail.com](mailto:yaswanthr2001@gmail.com) | 📞 872-242-8299  
-🌐 [LinkedIn](https://www.linkedin.com/in/yaswanth-reddy-yarrabandla/) • [GitHub](https://github.com/yaswanth-reddy-yarrabandla/yaswanth-reddy-yarrabandla)
-
-## 🚀 About Me
-
-I’m a results-driven **Data Scientist** with **3+ years** of experience transforming complex data into actionable intelligence. My work spans diverse sectors — from **finance** and **healthcare** to **education** and **SaaS** — where I’ve delivered **high-impact machine learning models**, **cloud-native solutions**, and **predictive analytics** that drive measurable growth.
-
-I thrive at the intersection of **data, strategy, and innovation** — building scalable solutions that solve real-world problems and enable smarter, faster decision-making.
+# 👋 Hi, I'm Yaswanth Reddy Yarrabandla  
+**Data Scientist** | Chicago, IL  
+📧 yyarrabandla@gmail.com | 📞 +1 872-242-8299 | [LinkedIn](https://www.linkedin.com/in/yyarrabandla)  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🔹 About Me
+Experienced **Data Scientist** with 3+ years in designing, developing, and deploying **ML & Deep Learning models** to drive actionable business insights. Skilled in **predictive analytics, NLP, time-series forecasting, and collaborative filtering**, with hands-on experience in building **end-to-end data pipelines**, optimizing ETL workflows, and automating real-time analytics.  
 
-| Category              | Tools & Technologies                              |
-|-----------------------|-------------------------------------------------|
-| **Languages**         | Python, SQL, Pandas, NumPy, Scikit-learn        |
-| **ML & AI**           | Regression, Classification, Clustering, XGBoost, Random Forest, LSTM, ARIMA, Time Series Forecasting |
-| **Deep Learning & NLP**| TensorFlow, Keras, CNNs, RNNs, GANs, BERT, LLMs, OpenCV, Streamlit |
-| **Data Viz & Analysis**| Matplotlib, Seaborn, Cohort & Attribution Modeling |
-| **Cloud & Tools**     | AWS (SageMaker, Redshift, S3), Azure ML, Git, JIRA, Agile, CI/CD Pipelines |
-| **Statistics & Testing**| A/B Testing, Experimental Design, Statistical Inference |
+I enjoy translating **complex data into meaningful solutions**, collaborating with cross-functional teams, and delivering **scalable, data-driven results**.  
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Skills
 
-### Data Scientist @ Chicago Education Advocacy Cooperative  
-*Mar 2025 – Present* | Chicago, IL  
-- 🚀 Built **Azure ML dashboards** for real-time insights → enabled **15% faster decision-making**  
-- 🔮 Applied **LSTM, ARIMA, Random Forest** models → improved customer retention by **15%** and engagement by **20%**  
-- ⚡ Optimized reporting with dynamic filters → cut report time by **47%**  
-- 📈 Forecasted market trends to guide strategic planning  
-- 🤝 Led deployment with JIRA, collaborating across teams  
+**Programming & Scripting:** `Python`, `R`, `SQL`, `PySpark`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`  
+**Machine Learning & AI:** Supervised & Unsupervised Learning, Random Forest, XGBoost, Logistic Regression, LSTM, Transformers, Predictive Modeling, Collaborative Filtering, Sentiment Analysis, A/B Testing  
+**Deep Learning & NLP:** Hugging Face Transformers, BERT, GPT-based Models, Text Embeddings, LangChain, Feature Engineering, Model Fine-tuning  
+**Cloud Platforms:** Azure Machine Learning, AWS SageMaker, AWS Glue, AWS Lambda, S3, Docker, CI/CD for ML Pipelines  
+**Data Engineering:** ETL Pipeline Development, Real-time Data Processing, Data Wrangling, Data Cleaning, Data Integration, Data Transformation  
+**Visualization & BI Tools:** Power BI, Tableau, Plotly, Dash, KPI Dashboards, Drill-down Reporting, Interactive Visualizations  
+**Statistical Analysis:** Hypothesis Testing, Regression Analysis, Probability Distributions, Forecasting, Time Series Analysis  
+**Collaboration & Workflow:** JIRA, Git, GitHub, Agile, Model Monitoring & Optimization  
 
-### Teaching Assistant – Data Science & ML @ DePaul University  
-*Aug 2024 – Dec 2024* | Chicago, IL  
-- Mentored 75+ students on classification models & ML pipelines  
-- Guided projects with logistic regression & random forest to predict churn  
-- Supported debugging, optimization, and data visualization  
+---
 
-### Data Science Engineer @ PortalOne Team  
-*Aug 2021 – Nov 2022* | Hyderabad, India  
-- Analyzed user behavior using clustering → increased user satisfaction by **25%**  
-- Developed a collaborative filtering recommendation system → boosted personalized experience by **25%**  
-- Optimized AWS ETL pipelines → reduced data processing by **40%**  
-- Built churn prediction models → decreased churn by **18%**  
-- Collaborated with engineering for smooth model deployment  
+## 💼 Experience
+
+### **Northern Trust, USA | Data Scientist**  
+*Jan 2025 – Present*  
+- 🚀 Developed an integrated **behavioral bias detection & liquidity stress simulation system** using Azure ML, Python, PyTorch, LangChain, and Hugging Face Transformers, reducing portfolio risk exposure by **23%**.  
+- 🤖 Engineered deep learning models (LSTM, Random Forest, Transformers), improving predictive accuracy by **28%**.  
+- 📝 Built NLP workflows to extract **sentiment & decision-making cues** from portfolio manager notes.  
+- 📊 Designed interactive dashboards using Azure ML & Plotly/Dash, improving reporting efficiency and decision timelines.  
+
+### **DePaul University | Teaching Assistant – Data Science & ML**  
+*Aug 2024 – Dec 2024*  
+- 🏫 Guided students to build **end-to-end ML pipelines** in Python & Azure ML, improving project success rates by **30%**.  
+- 📈 Directed classification & regression modeling projects, boosting model accuracy by **25%**.  
+- 📊 Coached students on **interactive dashboards** with Power BI & Matplotlib.  
+
+### **Hexaware Techno, USA | Data Science Engineer**  
+*Dec 2020 – Nov 2022*  
+- 🧩 Built a **user analytics & recommendation platform**, increasing user engagement by **32%**.  
+- 🔧 Designed recommendation engines using collaborative filtering, improving satisfaction by **27%**.  
+- ☁️ Architected real-time **ETL pipelines with AWS Glue, S3, Lambda**.  
+- 📊 Developed predictive churn models and interactive dashboards in Tableau & Power BI.  
 
 ---
 
 ## 🎓 Education
+**Master’s in Data Science**  
+DePaul University, Chicago, IL, USA  
 
-**M.S. in Data Science**  
-_DePaul University_ | GPA: 3.83  
-Jan 2023 – Nov 2024
+---
+
+## 🔬 Projects
+
+### **Fraudulent Job Posting Detection** | Nov 2024  
+- 🕵️ Designed ML models to classify fraudulent job postings using textual & meta-data features.  
+- 💾 Processed large datasets for high-quality training.  
+- 🤖 Compared Random Forest, LSTM, XGBoost, and SVM models.  
+- 🏆 Achieved **97.3% accuracy** with SVM, ensuring scalable deployment.  
 
 ---
 
 ## 🏅 Certifications
-
-- Microsoft Certified: Azure Data Scientist Associate  
-- HackerRank Gold Badge – Python  
-
----
-
-## 📬 Let's Connect!
-
-Whether it's collaboration, questions, or new opportunities, feel free to reach out!  
-✨ Email: yaswanthr2001@gmail.com  
-✨ LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yaswanth-reddy-yarrabandla/)  
+- ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure_Data_Scientist-blue) Microsoft Certified: Azure Data Scientist  
+- ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python-Green) HackerRank Gold Badge – Python  
 
 ---
 
-> “Data is the new oil, and I’m here to refine it.” 🔥
+## 📫 Contact Me
+- 📧 yyarrabandla@gmail.com  
+- 📞 +1 872-242-8299  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yyarrabandla)  
+
+---
+
+> “Transforming data into actionable insights and business value is my passion.”
+🔥
