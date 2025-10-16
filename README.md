@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaswanth Reddy Yarrabandla  
 **Data Scientist** | Chicago, IL  
-📧 yyarrabandla@gmail.com | 📞 +1 872-242-8299 | [LinkedIn](https://www.linkedin.com/in/yyarrabandla)  
+📧 yyarrabandla@gmail.com | 📞 +1 872-242-8299 | [LinkedIn](https://www.linkedin.com/in/yyarrabandla) | [Portfolio](https://yaswanthreddy.online/)
 
 ---
 
