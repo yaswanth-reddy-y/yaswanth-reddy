@@ -56,7 +56,7 @@ DePaul University, Chicago, IL, USA
 
 ## 🔬 Projects
 
-### **Fraudulent Job Posting Detection** | Nov 2024  
+### **Fraudulent Job Posting Detection** [Link to Github](https://github.com/yaswanth-reddy-y/Real-Fake-Job-Posting)  
 - 🕵️ Designed ML models to classify fraudulent job postings using textual & meta-data features.  
 - 💾 Processed large datasets for high-quality training.  
 - 🤖 Compared Random Forest, LSTM, XGBoost, and SVM models.  
@@ -65,7 +65,7 @@ DePaul University, Chicago, IL, USA
 ---
 
 ## 🏅 Certifications
-- ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure_Data_Scientist-blue) Microsoft Certified: Azure Data Scientist  
+- ![Azure Badge](https://learn.microsoft.com/en-us/users/yaswanthreddyyarrabandla-3660/credentials/dd7840c30fbf2692) Microsoft Certified: Azure Data Scientist  
 - ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python-Green) HackerRank Gold Badge – Python  
 
 ---
