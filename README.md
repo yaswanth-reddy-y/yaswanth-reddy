@@ -1,81 +1,144 @@
-# 👋 Hi, I'm Yaswanth Reddy Yarrabandla  
-**Data Scientist** | Chicago, IL  
-📧 yyarrabandla@gmail.com | 📞 +1 872-242-8299 | [LinkedIn](https://www.linkedin.com/in/yyarrabandla) | [Portfolio](https://yaswanthreddy.online/)
+# 👋 Hey, I'm Yaswanth Reddy
+
+### AI/ML Engineer | Generative AI Enthusiast | Builder
+
+📍 Chicago, Illinois
+
+I'm an AI/ML Engineer who enjoys turning messy data and complex business problems into intelligent systems that people actually use.
+
+Over the last 4+ years, I've worked across finance, education, and enterprise environments, building everything from fraud detection models and predictive analytics solutions to large-scale Generative AI applications. My work sits at the intersection of machine learning, software engineering, data engineering, and cloud infrastructure.
+
+Today, I'm focused on building production-grade AI systems, including Retrieval-Augmented Generation (RAG) platforms, semantic search engines, fraud detection models, and scalable machine learning pipelines.
 
 ---
 
-## 🔹 About Me
-Experienced **Data Scientist** with 3+ years in designing, developing, and deploying **ML & Deep Learning models** to drive actionable business insights. Skilled in **predictive analytics, NLP, time-series forecasting, and collaborative filtering**, with hands-on experience in building **end-to-end data pipelines**, optimizing ETL workflows, and automating real-time analytics.  
+## 🚀 What I'm Working On
 
-I enjoy translating **complex data into meaningful solutions**, collaborating with cross-functional teams, and delivering **scalable, data-driven results**.  
+At Morgan Stanley, I spend my days building AI systems that help teams make better decisions faster.
 
----
+One project involved developing fraud detection and risk-scoring models that process thousands of alerts every week. The goal wasn't simply to identify suspicious activity—it was to reduce the noise analysts deal with daily. By improving model precision and reducing false positives, we enabled teams to focus their attention where it mattered most.
 
-## 🛠 Skills
+Another area I've been deeply involved in is Generative AI. I built a semantic search and RAG platform capable of retrieving information from massive collections of compliance, regulatory, and policy documents. Instead of manually searching through thousands of documents, users can ask natural language questions and receive relevant answers in seconds.
 
-**Programming & Scripting:** `Python`, `R`, `SQL`, `PySpark`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`  
-**Machine Learning & AI:** Supervised & Unsupervised Learning, Random Forest, XGBoost, Logistic Regression, LSTM, Transformers, Predictive Modeling, Collaborative Filtering, Sentiment Analysis, A/B Testing  
-**Deep Learning & NLP:** Hugging Face Transformers, BERT, GPT-based Models, Text Embeddings, LangChain, Feature Engineering, Model Fine-tuning  
-**Cloud Platforms:** Azure Machine Learning, AWS SageMaker, AWS Glue, AWS Lambda, S3, Docker, CI/CD for ML Pipelines  
-**Data Engineering:** ETL Pipeline Development, Real-time Data Processing, Data Wrangling, Data Cleaning, Data Integration, Data Transformation  
-**Visualization & BI Tools:** Power BI, Tableau, Plotly, Dash, KPI Dashboards, Drill-down Reporting, Interactive Visualizations  
-**Statistical Analysis:** Hypothesis Testing, Regression Analysis, Probability Distributions, Forecasting, Time Series Analysis  
-**Collaboration & Workflow:** JIRA, Git, GitHub, Agile, Model Monitoring & Optimization  
+Beyond modeling, I enjoy solving engineering challenges. Whether it's optimizing ML pipelines, deploying models with Kubernetes, automating workflows with Airflow, or improving cloud efficiency, I'm always looking for ways to build systems that are reliable, scalable, and impactful.
 
 ---
 
-## 💼 Experience
+## 🛠 Technologies I Enjoy Working With
 
-### **Northern Trust, USA | Data Scientist**  
-*Jan 2025 – Present*  
-- 🚀 Developed an integrated **behavioral bias detection & liquidity stress simulation system** using Azure ML, Python, PyTorch, LangChain, and Hugging Face Transformers, reducing portfolio risk exposure by **23%**.  
-- 🤖 Engineered deep learning models (LSTM, Random Forest, Transformers), improving predictive accuracy by **28%**.  
-- 📝 Built NLP workflows to extract **sentiment & decision-making cues** from portfolio manager notes.  
-- 📊 Designed interactive dashboards using Azure ML & Plotly/Dash, improving reporting efficiency and decision timelines.  
+### Machine Learning & AI
 
-### **DePaul University | Teaching Assistant – Data Science & ML**  
-*Aug 2024 – Dec 2024*  
-- 🏫 Guided students to build **end-to-end ML pipelines** in Python & Azure ML, improving project success rates by **30%**.  
-- 📈 Directed classification & regression modeling projects, boosting model accuracy by **25%**.  
-- 📊 Coached students on **interactive dashboards** with Power BI & Matplotlib.  
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* XGBoost
+* Hugging Face
+* LangChain
+* LangGraph
+* GPT Models
 
-### **Hexaware Techno, USA | Data Science Engineer**  
-*Dec 2020 – Nov 2022*  
-- 🧩 Built a **user analytics & recommendation platform**, increasing user engagement by **32%**.  
-- 🔧 Designed recommendation engines using collaborative filtering, improving satisfaction by **27%**.  
-- ☁️ Architected real-time **ETL pipelines with AWS Glue, S3, Lambda**.  
-- 📊 Developed predictive churn models and interactive dashboards in Tableau & Power BI.  
+### Generative AI
 
----
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search
+* Prompt Engineering
+* AI Agents
+* Vector Databases
+* LLM Applications
 
-## 🎓 Education
-**Master’s in Data Science**  
-DePaul University, Chicago, IL, USA  
+### Data Engineering
 
----
+* Apache Spark
+* PySpark
+* Kafka
+* Airflow
+* Snowflake
+* PostgreSQL
+* Databricks
 
-## 🔬 Projects
+### MLOps & Deployment
 
-### **Fraudulent Job Posting Detection** [Link to Github](https://github.com/yaswanth-reddy-y/Real-Fake-Job-Posting)  
-- 🕵️ Designed ML models to classify fraudulent job postings using textual & meta-data features.  
-- 💾 Processed large datasets for high-quality training.  
-- 🤖 Compared Random Forest, LSTM, XGBoost, and SVM models.  
-- 🏆 Achieved **97.3% accuracy** with SVM, ensuring scalable deployment.  
+* Docker
+* Kubernetes
+* MLflow
+* FastAPI
+* Flask
+* GitHub Actions
+* CI/CD Pipelines
 
----
+### Cloud Platforms
 
-## 🏅 Certifications
-- ![Azure Badge](https://learn.microsoft.com/en-us/users/yaswanthreddyyarrabandla-3660/credentials/dd7840c30fbf2692) Microsoft Certified: Azure Data Scientist  
-- ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python-Green) HackerRank Gold Badge – Python  
-
----
-
-## 📫 Contact Me
-- 📧 yyarrabandla@gmail.com  
-- 📞 +1 872-242-8299  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yyarrabandla)  
+* AWS
+* Azure
+* SageMaker
+* Terraform
 
 ---
 
-> “Transforming data into actionable insights and business value is my passion.”
-🔥
+## 💼 My Journey
+
+### AI / ML Engineer
+
+Morgan Stanley | 2025 - Present
+
+Currently building fraud detection systems, GenAI applications, semantic search platforms, and large-scale machine learning infrastructure. My focus is creating AI solutions that move from experimentation into production and deliver measurable business value.
+
+### ML Research Assistant
+
+DePaul University | 2024
+
+Worked on predictive analytics for student success and retention. Built machine learning models that helped identify at-risk students earlier and supported data-driven decision making across academic departments.
+
+### Machine Learning Engineer
+
+Hexaware Technologies | 2020 - 2022
+
+Started my professional AI journey developing credit-risk models, customer analytics solutions, recommendation systems, and scalable data pipelines. This role helped me build a strong foundation in machine learning, data engineering, and enterprise-scale analytics.
+
+---
+
+## 🔥 Featured Projects
+
+### Customer Churn Prediction Platform
+
+Built an end-to-end machine learning platform that predicts customer churn using behavioral data, automated retraining pipelines, and real-time prediction APIs.
+
+### AI-Powered Stock Trading Agent
+
+Developed reinforcement learning and machine learning-based trading agents that generate buy and sell signals using market data and technical indicators.
+
+### Fraudulent Job Posting Detection
+
+Created a machine learning system capable of identifying fraudulent job postings with over 97% accuracy using NLP and classification techniques.
+
+Repository:
+https://github.com/yaswanth-reddy-y/Real-Fake-Job-Posting
+
+---
+
+## 📚 Currently Learning
+
+* Multi-Agent AI Systems
+* Advanced RAG Architectures
+* AI Infrastructure Engineering
+* LLM Fine-Tuning
+* Distributed Machine Learning
+
+---
+
+## 🤝 Let's Connect
+
+📧 [yyarrabandla@gmail.com](mailto:yyarrabandla@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/yyarrabandla
+
+🌐 Portfolio:
+https://yaswanthreddy.online
+
+🐙 GitHub:
+https://github.com/yaswanth-reddy-y
+
+---
+
+> I enjoy building AI systems that don't just work in notebooks, but create real-world impact at scale.
